@@ -1,2 +1,2 @@
 # rms_cardiff_may
-RMS Imaging training course Cardiff
+RMS Imaging training course Cardiff May
